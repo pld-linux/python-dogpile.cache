@@ -129,8 +129,8 @@ Dokumentacja API modułu Pythona dogpile.cache.
 
 %prep
 %setup -q -n dogpile.cache-%{version}
-%patch0 -p1
-%patch1 -p1
+%patch -P 0 -p1
+%patch -P 1 -p1
 
 %build
 %if %{with python2}
