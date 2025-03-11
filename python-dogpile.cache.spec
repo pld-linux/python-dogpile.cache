@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Frontend z pamięcią podręczną oparty na blokadzie Dogpile
 Name:		python-dogpile.cache
 # keep 0.9.x here for python2 support
 Version:	0.9.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/dogpile.cache/
